@@ -1,6 +1,6 @@
 [![DevIncept logo image link](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/fariha.akhtar.3/)
 [![DevIncept logo image link](http://i.imgur.com/tXSoThF.png)](https://twitter.com/farihaakhtar4?s=08)
-[![DevIncept logo image link](http://i.imgur.com/yCsTjba.png)](farihaakhtar09@gmail.com)
+[![DevIncept logo image link](http://i.imgur.com/yCsTjba.png)](mailto:farihaakhtar09@gmail.com)
 
 ### Hi there 👋
 
