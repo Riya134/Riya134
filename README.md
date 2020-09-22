@@ -2,6 +2,8 @@
 [![DevIncept logo image link](http://i.imgur.com/tXSoThF.png)](https://twitter.com/farihaakhtar4?s=08)
 [![DevIncept logo image link](http://i.imgur.com/yCsTjba.png)](mailto:farihaakhtar09@gmail.com)
 
+
+
 ### Hi there 👋
 
 My name is Fariha Akhtar. I like training computers and playing with codes. Always Looking forward to learn new things in Data Science.
